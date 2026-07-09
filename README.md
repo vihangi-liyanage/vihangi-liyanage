@@ -99,7 +99,7 @@ Always open to learning, collaboration, and new opportunities — feel free to r
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=vihangi-liyanage&label=Profile+Views&color=6a11cb&style=flat" />
+
 
 </div>
 
