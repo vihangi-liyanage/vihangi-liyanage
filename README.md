@@ -84,7 +84,12 @@
 
 ## 📌 Projects
 
-
+- 🛒 **Petpalz** – E-commerce platform for pet accessories
+- 🚚 **ShipMate** – Logistics management system
+- 📱 **Readify & FilmFolio** – Android mobile applications
+- 🍽️ **Ammehula** – Smart dining & restaurant management system
+- 🤖 **LUMEERUP** – AI-powered career guidance platform
+- 📋 **Task Management System** – Full-stack task management platform
 
 <br/>
 
