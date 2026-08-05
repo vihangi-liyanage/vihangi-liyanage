@@ -21,15 +21,7 @@
 
 <br/>
 
-## 🚀 About Me
 
-- 🎓 Computer Science Undergraduate
-- 💻 Focused on **Full-Stack Development, Mobile Apps & Software Engineering**
-- 🌱 Currently sharpening skills in **modern web technologies & system design**
-- 🧠 Strong foundation in **problem-solving, OOP & software fundamentals**
-- 🤝 Enjoy collaborating on **team-based, real-world projects**
-- 🟢 **Open to Internships & related opportunities** — Remote or Onsite
-- ☕ Fun fact: I turn coffee into clean, working code
 
 <br/>
 
