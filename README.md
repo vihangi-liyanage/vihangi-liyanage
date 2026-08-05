@@ -83,7 +83,6 @@
 - 🤖 **LUMEERUP** – AI-powered career guidance platform
 - 📋 **Task Management System** – Full-stack task management platform
 
-<br/>
 ## 🚀 About Me
 
 - 🎓 Computer Science Undergraduate
@@ -94,6 +93,8 @@
 - 🟢 **Open to Internships & related opportunities** — Remote or Onsite
 - ☕ Fun fact: I turn coffee into clean, working code
 ## 🤝 Let's Connect
+<br/>
+
 
 <div align="center">
 
